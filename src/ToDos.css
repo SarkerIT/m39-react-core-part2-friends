@@ -1,0 +1,12 @@
+/* .toDosBox {
+  border: 2px solid red;
+
+  border-radius: 20px;
+} */
+
+.toDosBox {
+  border: 2px solid green;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+}
